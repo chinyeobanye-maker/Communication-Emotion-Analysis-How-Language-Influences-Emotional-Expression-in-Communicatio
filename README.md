@@ -1,6 +1,6 @@
 #  Communication & Emotion Analysis
 
-https://images.unsplash.com/photo-1521295121783-8a321d551ad2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kyle-glenn-nXt5HtLmlgE-unsplash.jpg
+https://media.istockphoto.com/id/2227015600/photo/isolated-globe-showing-continents-of-the-world.webp?a=1&b=1&s=612x612&w=0&k=20&c=gHzRbp7_Qc3Gf_pZbvMZrU5QUUJIZIYjkqbjsBEOFjs=
 
 
 ## Introduction
