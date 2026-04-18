@@ -1,5 +1,8 @@
 #  Communication & Emotion Analysis
 
+https://images.unsplash.com/photo-1521295121783-8a321d551ad2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kyle-glenn-nXt5HtLmlgE-unsplash.jpg
+
+
 ## Introduction
 This project analyzes communication patterns and emotional expression across different languages, demographics, and social contexts using Microsoft Excel.  
 
