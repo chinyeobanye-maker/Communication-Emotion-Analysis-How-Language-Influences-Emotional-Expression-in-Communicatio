@@ -1,7 +1,5 @@
 #  Communication & Emotion Analysis
 
-https://flagicons.lipis.dev/flags/4x3/gb.svg
-
 
 ## Introduction
 This project analyzes communication patterns and emotional expression across different languages, demographics, and social contexts using Microsoft Excel.  
