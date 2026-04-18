@@ -1,2 +1,2 @@
-# Communication-Emotion-Analysis-How-Language-Influences-Emotional-Expression-in-Communicatio
+# Communication-Emotion-Analysis-How-Language-Influences-Emotional-Expression-in-CommunicatioN
 This project explores how emotions are expressed across different languages, contexts, and demographic groups. Using Microsoft Excel, I built an interactive dashboard to uncover patterns in communication styles and sentiment. The goal is to generate insights that improve cross-cultural communication and emotional intelligence in various settings.
