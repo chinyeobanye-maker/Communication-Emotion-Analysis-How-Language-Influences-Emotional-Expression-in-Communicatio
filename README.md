@@ -1,5 +1,7 @@
 # 📊 Communication & Emotion Analysis Dashboard
 
+"C:\Users\USER\Downloads\kyle-glenn-nXt5HtLmlgE-unsplash.jpg"
+
 ## 🧾 Project Overview
 This project analyzes communication patterns and emotional expression across different languages, demographics, and social contexts using Microsoft Excel.  
 
