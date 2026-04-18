@@ -1,15 +1,13 @@
-# 📊 Communication & Emotion Analysis Dashboard
+#  Communication & Emotion Analysis
 
-"C:\Users\USER\Downloads\kyle-glenn-nXt5HtLmlgE-unsplash.jpg"
-
-## 🧾 Project Overview
+## Introduction
 This project analyzes communication patterns and emotional expression across different languages, demographics, and social contexts using Microsoft Excel.  
 
 The goal is to uncover insights that improve **cross-cultural communication**, **emotional intelligence**, and **data-driven decision-making**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Identify the most common emotions expressed in communication  
 - Analyze sentiment distribution (Positive vs Negative)  
 - Understand how context influences communication style  
@@ -25,7 +23,7 @@ The goal is to uncover insights that improve **cross-cultural communication**, *
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The dataset includes:
 
 - Language  
@@ -40,7 +38,7 @@ The dataset includes:
 
 ---
 
-## ⚙️ Tools & Techniques
+##  Tools & Techniques
 - Microsoft Excel  
 - Pivot Tables  
 - Slicers (Interactive Filters)  
@@ -59,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Positive emotions are slightly more dominant in social contexts  
 - Workplace communication tends to be more indirect  
 - Emotional intensity varies across different contexts  
@@ -74,13 +72,13 @@ The dataset includes:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - `Communication and Emotion Analysis.xlsx` → Dataset & Dashboard  
 - `README.md` → Project Documentation  
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the Excel file  
 2. Open in Microsoft Excel  
 3. Navigate to the **Interactive Dashboard** sheet  
@@ -88,7 +86,7 @@ The dataset includes:
 
 ---
 
-## 🌍 Project Value
+##  Project Value
 This project demonstrates:
 - Data analysis skills using Excel  
 - Dashboard design and interactivity  
@@ -100,7 +98,7 @@ This project demonstrates:
 ## 👤 Author
 **Chinye Obanye**  
 📧 chinyeobanye@gmail.com  
-
+www.linkedin.com/in/chinye-obanye-898619193
 ---
 
 ## 🔗 Future Improvements
