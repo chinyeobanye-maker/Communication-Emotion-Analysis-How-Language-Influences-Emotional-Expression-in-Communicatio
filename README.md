@@ -1,6 +1,6 @@
 #  Communication & Emotion Analysis
 
-https://media.istockphoto.com/id/2227015600/photo/isolated-globe-showing-continents-of-the-world.webp?a=1&b=1&s=612x612&w=0&k=20&c=gHzRbp7_Qc3Gf_pZbvMZrU5QUUJIZIYjkqbjsBEOFjs=
+https://flagicons.lipis.dev/flags/4x3/gb.svg
 
 
 ## Introduction
