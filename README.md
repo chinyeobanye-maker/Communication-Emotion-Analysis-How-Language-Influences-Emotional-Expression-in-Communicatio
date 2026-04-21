@@ -16,7 +16,7 @@ The goal is to uncover insights that improve **cross-cultural communication**, *
 
 ---
 
-## ❓ Key Questions
+##  Key Questions
 - Which emotions occur most frequently?  
 - How does context (workplace, social, politics) affect tone?  
 - Are there gender-based differences in emotional expression?  
@@ -49,7 +49,7 @@ The dataset includes:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - Interactive **Excel Dashboard**  
 - Emotion distribution visualization  
 - Sentiment analysis (Positive vs Negative)  
@@ -66,7 +66,7 @@ The dataset includes:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 - Promote clearer communication in professional environments  
 - Adapt communication strategies across cultures  
 - Leverage emotional insights for better engagement  
@@ -106,4 +106,4 @@ www.linkedin.com/in/chinye-obanye-898619193
 - Extend analysis using Power BI or Python  
 - Add predictive insights  
 - Incorporate larger datasets for deeper analysis  
-k
+
